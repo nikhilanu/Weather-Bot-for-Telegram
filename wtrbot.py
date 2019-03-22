@@ -3,10 +3,10 @@ import requests
 import time
 import urllib
 
-TOKEN = "879366009:AAEOKwrZGq9YpXtlALVr9zJl9yEUpM7L64M"
+TOKEN = "enter user token"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
-api_key = "2fd193dcd046586942199483d10d1050"
+api_key = "enter user api"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
